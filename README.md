@@ -35,4 +35,4 @@ Your settings live in `%APPDATA%\Fisherman`. Uninstall from Windows Settings > A
 
 ## Support
 
-Fisherman is free to try: every feature works, but each fishing run stops after 30 minutes. A lifetime licence for one PC (150 Telegram Stars, bought once in our bot from the app's Licence page) removes the limit. Refund within 7 days with `/refund`; moving to a new PC with `/reset`. There is also a Donate page in the app.
+Fisherman is free to try: every feature works, but each fishing run stops after 30 minutes. A lifetime license for one PC (150 Telegram Stars, bought once in our bot from the app's License page) removes the limit. Refund within 7 days with `/refund`; moving to a new PC with `/reset`. There is also a Donate page in the app.
