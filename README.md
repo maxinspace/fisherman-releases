@@ -1,20 +1,19 @@
 # Fisherman
 
 A sound- and vision-based fishing assistant for World of Warcraft, for Windows 10/11.
-It listens for the bobber splash, finds the bobber on screen, clicks it, loots, re-applies your lure on a timer and casts again.
 
-**[Download the latest installer](https://github.com/maxinspace/fisherman-releases/releases/latest/download/Fisherman-Setup.exe)** · [All versions and checksums](https://github.com/maxinspace/fisherman-releases/releases) · [Website](https://maxinspace.github.io/fisherman-releases/)
+**[Download the latest installer](https://fisherman.maxlari.dev/download)** · [Website](https://fisherman.maxlari.dev)
 
 > **Disclaimer.** Automating gameplay is against the World of Warcraft Terms of Use and can get an account suspended.
 > Fisherman is an independent tool, not made, endorsed or supported by Blizzard Entertainment. Use it at your own risk.
 
-This repository only hosts the installers and the landing page. The source code is private.
+This repository only hosts the installers. The source code is private. Checksums are at https://fisherman.maxlari.dev/checksums.txt
 
 ## Install
 
 1. Download and run `Fisherman-Setup.exe`.
 2. Windows may show "Windows protected your PC", because the installer is not code-signed yet. Click **More info**, then **Run anyway**.
-3. Compare the file's SHA-256 with the one in the release notes if you want to check it is the genuine file:
+3. Compare the file's SHA-256 with the checksums page if you want to check it is the genuine file:
 
    ```powershell
    Get-FileHash .\Fisherman-Setup.exe
